@@ -1,0 +1,4 @@
+concurrent.futures
+Flask
+youtube_transcript_api
+transformers
